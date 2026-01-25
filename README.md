@@ -20,4 +20,4 @@ Open to: Data Science • Machine Learning • Data Engineering (ETL) • Analyt
   Repo: https://github.com/elfahad98/etl-datawarehouse
 
 ### 📫 Contact
-- Email: [elfahad180@gmail.com](mailto:elfahad180@gmail.com)
+- Email: [elfahad98@gmail.com](mailto:elfahad98@gmail.com)
