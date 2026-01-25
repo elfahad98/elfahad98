@@ -1,9 +1,9 @@
 ## El-fahad COMBO — Data Science / Machine Learning
 
 MSc Applied Mathematics & Statistics (Data Science) — Université de Caen 🇫🇷  
-I build end-to-end ML projects (data → features → model → evaluation) with a focus on **fraud detection**.  
-🎯 Seeking **Data Science / ML internship (Feb–Aug 2026)**.  
-Open to: Fraud Detection • Risk Modeling • ML Engineering • Data Engineering (ETL)
+I build end-to-end ML projects (data → features → model → evaluation), from experimentation to clean, reproducible pipelines.  
+🎯 Seeking **Data Science / Machine Learning internship (Feb–Aug 2026)**.  
+Open to: Data Science • Machine Learning • Data Engineering (ETL) • Analytics • Cloud (Azure)
 
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 ![PySpark](https://img.shields.io/badge/PySpark-E25A1C?logo=apachespark&logoColor=white)
