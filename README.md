@@ -1,16 +1,23 @@
-## Hi there 👋
+## El-fahad COMBO — Data Science / Machine Learning
 
-<!--
-**elfahad98/elfahad98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+MSc Applied Mathematics & Statistics (Data Science) — Université de Caen 🇫🇷  
+I build end-to-end ML projects (data → features → model → evaluation) with a focus on **fraud detection**.  
+🎯 Seeking **Data Science / ML internship (Feb–Aug 2026)**.  
+Open to: Fraud Detection • Risk Modeling • ML Engineering • Data Engineering (ETL)
 
-Here are some ideas to get you started:
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![PySpark](https://img.shields.io/badge/PySpark-E25A1C?logo=apachespark&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?logo=mysql&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?logo=scikitlearn&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?logo=microsoftazure&logoColor=white)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔥 Featured projects
+- **IEEE Fraud Detection (PySpark)** — distributed pipeline + modeling + evaluation  
+  Repo: https://github.com/elfahad98/ieee-fraud-pyspark
+- **ATO Fraud Detection** — rare-event classification + metrics for imbalanced data  
+  Repo: https://github.com/elfahad98/ato-fraud-detection-mlp
+- **ETL Data Warehouse (Apache Hop)** — star schema + pipelines + data quality  
+  Repo: https://github.com/elfahad98/etl-datawarehouse
+
+### 📫 Contact
+- Email: [elfahad180@gmail.com](mailto:elfahad180@gmail.com)
