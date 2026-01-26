@@ -82,29 +82,6 @@
 
 ➡️ Repo: https://github.com/elfahad98/etl-datawarehouse
 
----
-
-## 🎓 Education
-
-### MSc — Applied Mathematics & Statistics (Data Science) *(2024–2026, in progress)*
-**Université de Caen Normandie**  
-Key topics:
-- Statistics & inference (tests, CI, ANOVA, GLM)
-- Multivariate analysis (PCA/ACP, dimension reduction)
-- Time series (trend/seasonality, ARIMA)
-- ML (k-NN, Trees, Random Forest, AUC/F1/precision/recall)
-- Data (SQL, relational modeling, DWH star schema, ETL basics)
-
-**Tools:** Python (Pandas/NumPy/scikit-learn) • R • SAS • SQL • PySpark • Superset
-
-### BSc — Applied Mathematics / Fundamental Sciences *(2020–2024)*
-Université de La Réunion • Université de Caen Normandie  
-Math foundations (analysis, linear algebra, probability, statistics) + programming basics (Python/R/SQL, web basics)
-
----
-
-## 🧾 Certifications
-- **Microsoft Azure Data Scientist Associate (DP-100)** — *In progress* (labs + practice)
 
 ---
 
