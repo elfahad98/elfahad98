@@ -5,10 +5,6 @@
 <h1 align="center">El-Fahad COMBO — Data Scientist · ML Engineer · MLOps </h1>
 
 <p align="center">
-  MSc Applied Mathematics & Statistics (Data Science) — Université de Caen Normandie 🇫🇷
-</p>
-
-<p align="center">
   MSc Applied Mathematics & Statistics — Data Science · Université de Caen Normandie 🇫🇷
 </p>
 
