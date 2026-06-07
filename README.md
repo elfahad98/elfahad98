@@ -83,23 +83,23 @@ Not just notebooks — complete, deployable systems.
 ## 🔥 Featured Projects
 
 ### 🏦 Fraud Detection — IEEE-CIS (Kaggle)
-**Tech:** PySpark • Spark MLlib • Python • SQL • (Optional) Superset  
-**What I did:**
-- Distributed pipeline: load + join identity, cleaning, missing values handling
-- EDA: `isFraud` distribution, key drivers, first engineered features
-- Supervised modeling + metrics tracking (AUC, precision, recall)
+**Tech:** PySpark · Spark MLlib · Python · SQL · Superset
 
-➡️ Repo: https://github.com/elfahad98/ieee-fraud-pyspark
+- Distributed pipeline: join, clean and prepare identity + transaction data at scale
+- Feature engineering, supervised modeling, imbalanced learning
+- Evaluation: ROC-AUC, PR-AUC, recall, F1 + dashboard for fraud pattern analysis
 
+➡️ [github.com/elfahad98/ieee-fraud-pyspark](https://github.com/elfahad98/ieee-fraud-pyspark)
 ---
 
-### 🔐 Account Takeover (ATO) Detection
-**Tech:** Python • scikit-learn • XGBoost • Pandas • NumPy  
-**What I did:**
-- Behavioral features (time patterns, frequency, device signals, etc.)
-- Imbalanced learning + benchmarking + thresholding with low false positives in mind
+### 🔐 Account Takeover Detection
+**Tech:** Python · scikit-learn · XGBoost · MLP · pandas · NumPy
 
-➡️ Repo: https://github.com/elfahad98/ato-fraud-detection-mlp
+- Behavioral and time-based feature engineering (frequency, device signals, login patterns)
+- Benchmarking: Logistic Regression vs XGBoost vs MLP
+- Imbalanced learning, threshold tuning, recall-first optimization
+
+➡️ [github.com/elfahad98/ato-fraud-detection-mlp](https://github.com/elfahad98/ato-fraud-detection-mlp)
 
 ---
 
@@ -114,26 +114,16 @@ Not just notebooks — complete, deployable systems.
 
 ---
 
-### 🏗️ ETL & Datawarehouse (Mobility / Sales)
-**Tech:** Apache Hop • PostgreSQL • SQL  
-**What I did:**
-- Star schema design (fact + dimensions)
-- ETL workflows: ingestion, cleaning, quality checks, error handling
-- (Concepts) Slowly Changing Dimensions (SCD2)
+### 🏗️ ETL & Data Warehouse
+**Tech:** Apache Hop · PostgreSQL · SQL
 
-➡️ Repo: https://github.com/elfahad98/etl-datawarehouse
+- Star schema design (fact + dimension tables)
+- ETL workflows: ingestion, transformation, data quality checks, error handling
+- SCD2 concepts applied
+
+➡️ [github.com/elfahad98/etl-datawarehouse](https://github.com/elfahad98/etl-datawarehouse)
 
 ---
 
 ## 📫 Contact
 - Email: **elfahad98@gmail.com**
-
----
-
-<!-- Optional: GitHub stats (remove if you want ultra-minimal) -->
-<!--
-## 📈 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=elfahad98&show_icons=true&hide_title=true" />
-</p>
--->
