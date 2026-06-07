@@ -115,16 +115,5 @@ Not just notebooks — complete, deployable systems.
 
 ---
 
-### 🏗️ ETL & Data Warehouse
-**Tech:** Apache Hop · PostgreSQL · SQL
-
-- Star schema design (fact + dimension tables)
-- ETL workflows: ingestion, transformation, data quality checks, error handling
-- SCD2 concepts applied
-
-➡️ [github.com/elfahad98/etl-datawarehouse](https://github.com/elfahad98/etl-datawarehouse)
-
----
-
 ## 📫 Contact
 - Email: **elfahad98@gmail.com**
