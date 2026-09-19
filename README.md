@@ -1,119 +1,118 @@
-<!-- =========================
-   PROFILE README — elfahad98
-   ========================= -->
+<h1 align="center">El-Fahad COMBO</h1>
 
-<h1 align="center">El-Fahad COMBO — Data Scientist · ML Engineer · MLOps </h1>
+<h3 align="center">Data Scientist · Machine Learning Engineer · Applied AI Engineer</h3>
 
 <p align="center">
-  MSc Applied Mathematics & Statistics — Data Science · Université de Caen Normandie 🇫🇷
+  I build reliable data and AI systems, from data ingestion and machine learning
+  to cloud deployment, monitoring, and business-facing applications.
 </p>
 
 <p align="center">
-  I build end-to-end ML systems — from raw data ingestion to production deployment and monitoring.
-  <br/>
-  Clean pipelines. Reproducible results. Real business impact.
-</p>
-
-<p align="center">
-  <b> 🎯 Open to :</b> Data Science · Machine Learning · ML Engineering · MLOps · Data Engineering
-</p>
-
----
-
-## 🏅 Certification
-
-<p align="center">
+  <a href="https://www.linkedin.com/in/elfahad/">
+    <img src="https://img.shields.io/badge/LinkedIn-El--Fahad%20COMBO-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:elfahad98@gmail.com">
+    <img src="https://img.shields.io/badge/Email-elfahad98%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
+  </a>
   <a href="https://learn.microsoft.com/en-us/users/elfahadcombo-4372/credentials/cfa8ce146cb7fe8b">
-    <img src="https://img.shields.io/badge/Microsoft%20Certified-Azure%20Data%20Scientist%20Associate%20DP--100-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" />
+    <img src="https://img.shields.io/badge/Microsoft-Azure%20Data%20Scientist%20Associate-0078D4?style=flat-square&logo=microsoftazure&logoColor=white" alt="Microsoft Azure Data Scientist Associate" />
   </a>
 </p>
 
----
-
-## 🧠 About
-
-- 🤖 **Machine Learning & NLP** — classification, fraud detection, imbalanced learning, log analysis, clustering
-- 📈 **Time series** — forecasting, feature engineering, model comparison, experiment tracking with MLflow
-- ⚙️ **ML Engineering / MLOps** — model deployment, confidence scoring, production monitoring, alerting workflows
-- 🔌 **Data Engineering** — ETL/ELT pipelines, BigQuery, REST API integration, cloud automation
-- ☁️ **Cloud** — GCP for data pipelines and serverless deployment; Azure ML, Azure Databricks and Azure AI Foundry
-  
----
-
-## 🧰 Tech Stack
-
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,postgres,gcp,azure,docker,git,github,linux,javascript,html,css&perline=11" />
-  </a>
+  France · Open to permanent roles and relocation across Europe and the UK
 </p>
 
+---
+
+## Profile
+
+Master's graduate in Applied Mathematics and Statistics, specialising in Data Science and Machine Learning. I have hands-on experience designing and deploying ML, generative AI, and data automation solutions on Google Cloud Platform.
+
+My work combines statistical modelling, software engineering, cloud services, and business understanding to turn raw data and operational problems into reliable, traceable, and usable systems.
+
+## Industry Experience
+
+### Data & AI Engineer Intern — Carrefour Administratif France
+**March 2026 – August 2026 · Mondeville, France**
+
+- Built a hybrid NLP diagnostic system for enterprise process logs, combining text normalisation, TF-IDF, multiclass Logistic Regression, K-means clustering, confidence-based escalation, and deterministic validation rules.
+- Designed and deployed a secure multi-agent RAG assistant using Gemini, Vertex AI Search, BigQuery, Flask, and Cloud Run, with request routing, conversation memory, grounded sources, and read-only data controls.
+- Productionised scheduled data pipelines from Gmail and Cloud Storage to BigQuery, with idempotent freshness checks, Cloud Run Jobs, monitoring, logging, and Google Chat alerts.
+- Automated external API validation and third-party risk workflows, with BigQuery historisation, dashboard-ready outputs, and auditable processing.
+- Worked directly with accounting and data teams to translate operational needs into tested, documented, and maintainable solutions.
+
+> The underlying data, source code, infrastructure identifiers, and business rules are confidential. Public descriptions intentionally remain high-level.
+
+## Core Expertise
+
+| Area | Skills |
+|---|---|
+| **Machine Learning** | Classification, imbalanced learning, NLP, time series, feature engineering, threshold optimisation, model evaluation, explainability |
+| **Applied AI** | RAG, multi-agent orchestration, Gemini, Vertex AI Search, grounded responses, safe Text-to-SQL |
+| **ML Engineering / MLOps** | Flask APIs, Docker, Cloud Run, Cloud Scheduler, Secret Manager, GitLab CI/CD, MLflow, monitoring and alerting |
+| **Data Engineering** | Python, SQL, BigQuery, PySpark, pandas, ETL/ELT, Cloud Storage, REST APIs |
+| **Cloud** | Google Cloud Platform, Microsoft Azure Machine Learning |
 
 <p align="center">
-  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" />
-  <img src="https://img.shields.io/badge/XGBoost-0B7285?style=flat-square&logoColor=white" />
-  <img src="https://img.shields.io/badge/PySpark-E25A1C?style=flat-square&logo=apachespark&logoColor=white" />
-  <img src="https://img.shields.io/badge/MLflow-0194E2?style=flat-square&logo=mlflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" />
-  <img src="https://img.shields.io/badge/NLP%20%2F%20TF--IDF-8E44AD?style=flat-square&logoColor=white" />
-  <img src="https://img.shields.io/badge/BigQuery-4285F4?style=flat-square&logo=googlebigquery&logoColor=white" />
-  <img src="https://img.shields.io/badge/Cloud%20Run-4285F4?style=flat-square&logo=googlecloud&logoColor=white" />
-  <img src="https://img.shields.io/badge/REST%20APIs-111827?style=flat-square&logoColor=white" />
-  <img src="https://img.shields.io/badge/Superset-1F6FEB?style=flat-square&logo=apache&logoColor=white" />
+  <img src="https://skillicons.dev/icons?i=python,postgres,gcp,azure,docker,git,github,linux,javascript&perline=9" alt="Core technologies" />
 </p>
 
+<p align="center">
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" alt="scikit-learn" />
+  <img src="https://img.shields.io/badge/PySpark-E25A1C?style=flat-square&logo=apachespark&logoColor=white" alt="PySpark" />
+  <img src="https://img.shields.io/badge/MLflow-0194E2?style=flat-square&logo=mlflow&logoColor=white" alt="MLflow" />
+  <img src="https://img.shields.io/badge/BigQuery-4285F4?style=flat-square&logo=googlebigquery&logoColor=white" alt="BigQuery" />
+  <img src="https://img.shields.io/badge/Cloud%20Run-4285F4?style=flat-square&logo=googlecloud&logoColor=white" alt="Cloud Run" />
+  <img src="https://img.shields.io/badge/REST%20APIs-111827?style=flat-square" alt="REST APIs" />
+</p>
 
+## Selected Projects
 
----
+### [Fraud Detection — IEEE-CIS](https://github.com/elfahad98/ieee-fraud-pyspark)
 
-## ⚡ What I Build
+**PySpark · Spark MLlib · SQL · Superset**
 
-```text
-data collection & API integration  →  cleaning & preprocessing  →  feature engineering
-→  ML model training & tuning  →  evaluation & tracking (MLflow)
-→  API / app integration  →  cloud deployment (Cloud Run)
-→  monitoring, alerting & dashboards
-```
+- Distributed ML pipeline covering joins, cleaning, feature engineering, class imbalance, model selection, and threshold optimisation.
+- Built on approximately 590,000 transactions with a 3.5% fraud rate.
+- Optimised GBT model: **ROC-AUC 0.954 · PR-AUC 0.74 · F1 0.692**.
 
-Not just notebooks — complete, deployable systems.
+### [Account Takeover Detection](https://github.com/elfahad98/ato-fraud-detection-mlp)
 
----
+**Python · scikit-learn · XGBoost · MLP · SHAP**
 
-## 🔥 Featured Projects
+- Behavioural and time-based feature engineering on authentication events from a source dataset containing more than 33 million records.
+- Compared Logistic Regression, XGBoost, and MLP under extreme class imbalance.
+- Final test performance: **PR-AUC 0.709 · Recall@1% FPR 0.893**.
 
-### 🏦 Fraud Detection — IEEE-CIS (Kaggle)
-**Tech:** PySpark · Spark MLlib · Python · SQL · Superset
+### [Multi-Horizon Water Temperature Forecasting](https://github.com/elfahad98/water-temp-forecast)
 
-- Distributed pipeline: join, clean and prepare identity + transaction data at scale
-- Feature engineering, supervised modeling, imbalanced learning
-- Evaluation: ROC-AUC, PR-AUC, recall, F1 + dashboard for fraud pattern analysis
+**Python · scikit-learn · statsmodels · MLflow**
 
-➡️ [github.com/elfahad98/ieee-fraud-pyspark](https://github.com/elfahad98/ieee-fraud-pyspark)
+- Forecasting across seven monitoring stations using leakage-free temporal backtesting.
+- Benchmarked seasonal baselines, Ridge, ETS, SARIMA, and SARIMAX.
+- Includes experiment tracking, model selection artefacts, and a reusable local inference pipeline.
 
----
+### [ETL & Data Warehouse](https://github.com/elfahad98/etl-datawarehouse)
 
-### 🔐 Account Takeover Detection
-**Tech:** Python · scikit-learn · XGBoost · MLP · pandas · NumPy
+**Apache Hop · SQL · SQLite · Data Quality**
 
-- Behavioral and time-based feature engineering (frequency, device signals, login patterns)
-- Benchmarking: Logistic Regression vs XGBoost vs MLP
-- Imbalanced learning, threshold tuning, recall-first optimization
+- Designed a star schema and ETL pipelines for dimensions and sales facts.
+- Implemented validation, error handling, environment-based configuration, and slowly changing dimension logic.
 
-➡️ [github.com/elfahad98/ato-fraud-detection-mlp](https://github.com/elfahad98/ato-fraud-detection-mlp)
+## Certification
 
----
+<a href="https://learn.microsoft.com/en-us/users/elfahadcombo-4372/credentials/cfa8ce146cb7fe8b">
+  <img src="https://img.shields.io/badge/Microsoft%20Certified-Azure%20Data%20Scientist%20Associate%20(DP--100)-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Microsoft Certified Azure Data Scientist Associate" />
+</a>
 
-### 📈 Time Series Forecasting
-**Tech:** Python · pandas · scikit-learn · statsmodels · MLflow
+## Education & Languages
 
-- Preprocessing pipeline, lag and rolling-window features, leakage-free splits
-- Model comparison: Ridge vs SARIMA/SARIMAX vs baselines
-- Experiment tracking with MLflow, evaluation on validation and test sets
+- **Master's degree in Applied Mathematics and Statistics — Data Science**, Université de Caen Normandie, 2026
+- **French:** Native
+- **English:** B2 professional working proficiency
 
-➡️ [github.com/elfahad98/water-temp-forecast](https://github.com/elfahad98/water-temp-forecast) 
+## Contact
 
----
-
-## 📫 Contact
-- Email: **elfahad98@gmail.com**
+- **LinkedIn:** [linkedin.com/in/elfahad](https://www.linkedin.com/in/elfahad/)
+- **Email:** [elfahad98@gmail.com](mailto:elfahad98@gmail.com)
