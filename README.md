@@ -6,13 +6,12 @@
 
 <p align="center">
   MSc Applied Mathematics & Statistics — Data Science<br/>
-  Université de Caen Normandie 🇫🇷
+  Université de Caen Normandie · France
 </p>
 
 <p align="center">
-  I build reliable Data & AI systems — from data ingestion and machine learning
-  to multi-agent applications, cloud deployment and monitoring.
-  <br/>
+  I build reliable Data & AI systems — from data pipelines and machine learning<br/>
+  to multi-agent applications, cloud deployment and production monitoring.<br/>
   Clean pipelines. Reproducible results. Business-focused delivery.
 </p>
 
@@ -30,7 +29,7 @@
 
 ## 🧠 About
 
-- 🧠 **Applied AI & LLM systems** — multi-agent orchestration, RAG, guarded Text-to-SQL, grounded generation and conversational memory
+- 🧠 **Applied AI & LLM systems** — multi-agent orchestration, RAG, guarded Text-to-SQL and conversational memory
 - 🤖 **Machine Learning & NLP** — classification, fraud detection, imbalanced learning, technical-log analysis and clustering
 - ⚙️ **ML Engineering / MLOps** — APIs, containerization, cloud deployment, experiment tracking, monitoring and alerting
 - 🔌 **Data Engineering** — ETL/ELT pipelines, BigQuery, SQL, REST APIs and scheduled cloud automation
