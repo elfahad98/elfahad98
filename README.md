@@ -5,14 +5,17 @@
 <h1 align="center">El-Fahad COMBO — Data Scientist · ML Engineer · MLOps </h1>
 
 <p align="center">
-  MSc Applied Mathematics & Statistics — Data Science<br/>
+  🎓 <strong>MSc Applied Mathematics & Statistics — Data Science</strong><br/>
   Université de Caen Normandie · France
 </p>
 
 <p align="center">
-  I build reliable Data & AI systems — from data pipelines and machine learning<br/>
-  to multi-agent applications, cloud deployment and production monitoring.<br/>
-  Clean pipelines. Reproducible results. Business-focused delivery.
+  <strong>Building reliable Data & AI systems — end to end</strong><br/>
+  ML pipelines · Multi-agent AI · Cloud deployment · Production monitoring
+</p>
+
+<p align="center">
+  <em>Clean pipelines · Reproducible results · Real business impact</em>
 </p>
 
 ---
