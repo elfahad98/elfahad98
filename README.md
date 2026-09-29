@@ -5,17 +5,15 @@
 <h1 align="center">El-Fahad COMBO — Data Scientist · ML Engineer · MLOps </h1>
 
 <p align="center">
-  MSc Applied Mathematics & Statistics — Data Science · Université de Caen Normandie 🇫🇷
+  MSc Applied Mathematics & Statistics — Data Science<br/>
+  Université de Caen Normandie 🇫🇷
 </p>
 
 <p align="center">
-  I build end-to-end ML systems — from raw data ingestion to production deployment and monitoring.
+  I build reliable Data & AI systems — from data ingestion and machine learning
+  to multi-agent applications, cloud deployment and monitoring.
   <br/>
-  Clean pipelines. Reproducible results. Real business impact.
-</p>
-
-<p align="center">
-  <b> 🎯 Open to :</b> Data Science · Machine Learning · ML Engineering · MLOps · Data Engineering
+  Clean pipelines. Reproducible results. Business-focused delivery.
 </p>
 
 ---
@@ -32,11 +30,12 @@
 
 ## 🧠 About
 
-- 🤖 **Machine Learning & NLP** — classification, fraud detection, imbalanced learning, log analysis, clustering
-- 📈 **Time series** — forecasting, feature engineering, model comparison, experiment tracking with MLflow
-- ⚙️ **ML Engineering / MLOps** — model deployment, confidence scoring, production monitoring, alerting workflows
-- 🔌 **Data Engineering** — ETL/ELT pipelines, BigQuery, REST API integration, cloud automation
-- ☁️ **Cloud** — GCP for data pipelines and serverless deployment; Azure ML, Azure Databricks and Azure AI Foundry
+- 🧠 **Applied AI & LLM systems** — multi-agent orchestration, RAG, guarded Text-to-SQL, grounded generation and conversational memory
+- 🤖 **Machine Learning & NLP** — classification, fraud detection, imbalanced learning, technical-log analysis and clustering
+- ⚙️ **ML Engineering / MLOps** — APIs, containerization, cloud deployment, experiment tracking, monitoring and alerting
+- 🔌 **Data Engineering** — ETL/ELT pipelines, BigQuery, SQL, REST APIs and scheduled cloud automation
+- 📈 **Time series** — forecasting, feature engineering, leakage-free evaluation and model comparison
+- ☁️ **Cloud** — GCP for Data & AI systems; Azure ML, Azure Databricks and Azure AI Foundry
   
 ---
 
@@ -44,7 +43,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,postgres,gcp,azure,docker,git,github,linux,javascript,html,css&perline=11" />
+    <img src="https://skillicons.dev/icons?i=python,postgres,gcp,azure,docker,flask,git,github,linux,javascript,html,css&perline=12" />
   </a>
 </p>
 
@@ -70,13 +69,34 @@
 ## ⚡ What I Build
 
 ```text
-data collection & API integration  →  cleaning & preprocessing  →  feature engineering
-→  ML model training & tuning  →  evaluation & tracking (MLflow)
-→  API / app integration  →  cloud deployment (Cloud Run)
-→  monitoring, alerting & dashboards
+Predictive ML  → data → features → training → evaluation → deployment → monitoring
+
+Applied AI     → business question → agent routing
+               → RAG / guarded Text-to-SQL / integrity controls → sourced answer
+
+Data systems   → APIs & files → validation → BigQuery → scheduling → alerts
 ```
 
-Not just notebooks — complete, deployable systems.
+**Not just notebooks — reliable systems designed around real business needs.**
+
+---
+
+## 🏢 Industry Experience
+
+### Data & AI Engineer Intern — Carrefour Administratif France
+
+**March – August 2026 · Mondeville, France**
+
+Built Data & AI solutions for accounting and Order-to-Cash processes, combining production cloud automation with internally deployed AI and machine-learning pilots.
+
+- **REFLEX:** designed a secure, read-only multi-agent assistant combining guarded Text-to-SQL, RAG, deterministic integrity checks, conversational memory and Cloud Run deployment.
+- **SAP rejection diagnostics:** built an NLP classification and diagnostic pipeline combining TF-IDF, logistic regression and business controls — **89.5% cross-validated accuracy** and **86.1% macro-F1**.
+- **Cloud data automation:** deployed scheduled Gmail and Cloud Storage to BigQuery workflows with preprocessing, freshness checks, controlled reprocessing and Google Chat alerts.
+- **Business controls:** automated VAT verification through Cyplom/VIES, Trustpair alert routing and resilient legal-data extraction through the INPI API.
+
+The internal source code and business data remain confidential. A sanitized portfolio presents the architectures, responsibilities and validated results:
+
+➡️ **[Explore the Data & AI internship case studies](https://github.com/elfahad98/data-ai-accounting-case-studies)**
 
 ---
 
@@ -116,4 +136,6 @@ Not just notebooks — complete, deployable systems.
 ---
 
 ## 📫 Contact
-- Email: **elfahad98@gmail.com**
+
+- 📧 **Email:** [elfahad98@gmail.com](mailto:elfahad98@gmail.com)
+- 🐙 **GitHub:** [github.com/elfahad98](https://github.com/elfahad98)
